@@ -8,3 +8,4 @@
 ###  [关于团队](https://github.com/xxholly32/Blog/issues/2)
 ###  [nodejs学习之旅(一)](https://github.com/xxholly32/Blog/issues/3)
 ###  [ES6 入门](https://github.com/xxholly32/Blog/issues/4)
+###  [[翻译]2016年JavaScript开发者需要了解的技能](https://github.com/xxholly32/Blog/issues/5)
