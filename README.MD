@@ -11,3 +11,6 @@
 ###  [[翻译]2016年JavaScript开发者需要了解的技能](https://github.com/xxholly32/Blog/issues/5)
 ###  [grunt,gulp和webpack介绍与项目实践](https://github.com/xxholly32/Blog/issues/6)
 ###  [关于文化](https://github.com/xxholly32/Blog/issues/7)
+###  [cocos2dx-js 入门 （一）](https://github.com/xxholly32/Blog/issues/8)
+
+
