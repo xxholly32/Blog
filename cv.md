@@ -54,7 +54,7 @@
 **翻译文章**：[2016年JavaScript开发者需要了解的技能](http://web.jobbole.com/86665/)
 
 **公众号**：  
-![公众号](https://pcs.baidu.com/rest/2.0/pcs/thumbnail?method=generate&app_id=250528&path=%2F%E6%9D%A5%E8%87%AA%EF%BC%9A%E7%99%BE%E5%BA%A6%E7%9B%B8%E5%86%8C%2Fqrcode_for_gh_7e999eb8a621_430.jpg&quality=90&size=c10000_u10000)
+![公众号](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3280493260&token=2122273434&style=1)
 
 ---
 
