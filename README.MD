@@ -15,6 +15,7 @@
 ###  [2016年度总结](https://github.com/xxholly32/Blog/issues/9)
 ###  [[翻译]JavaScript框架选择指南（初级）](https://github.com/xxholly32/Blog/issues/10)
 ###  [vue框架设计](https://github.com/xxholly32/Blog/issues/11)
+###  [vue源码学习](https://github.com/xxholly32/vue-deeper)
 
 
 
