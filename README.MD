@@ -24,6 +24,7 @@
 
 ###  [vue框架设计](https://github.com/xxholly32/Blog/issues/11)
 ###  [vue源码学习](https://github.com/xxholly32/vue-deeper)
+###  [2017年海康职工羽毛球比赛](https://github.com/xxholly32/Blog/issues/12)
 
 
 
