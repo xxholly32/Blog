@@ -26,6 +26,11 @@
 ###  [vue源码学习](https://github.com/xxholly32/vue-deeper)
 ###  [2017年海康职工羽毛球比赛](https://github.com/xxholly32/Blog/issues/12)
 
+## 2018
+
+###  [如何用github的issues来做日常工作管理](https://github.com/xxholly32/Blog/issues/13)
+
+
 
 
 
