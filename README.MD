@@ -6,6 +6,7 @@
 
 ## 2018
 
+### [用conventional来做changelog的简单配置说明](https://github.com/xxholly32/Blog/issues/18)
 ### [第二届vueconf后记](https://github.com/xxholly32/Blog/issues/17)
 ### [反思设计](https://github.com/xxholly32/Blog/issues/16)
 ### [如何用worktile做工作协作](https://github.com/xxholly32/Blog/issues/15)
