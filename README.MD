@@ -6,8 +6,8 @@
 
 ## 2019
 
-### [日本游记(https://github.com/xxholly32/Blog/issues/20)
-### [2019 seeconf 后记(https://github.com/xxholly32/Blog/issues/19)
+### [日本游记](https://github.com/xxholly32/Blog/issues/20)
+### [2019 seeconf 后记](https://github.com/xxholly32/Blog/issues/19)
 
 ## 2018
 
