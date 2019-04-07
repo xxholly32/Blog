@@ -1,0 +1,27 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "description": "> 来自一位高中语文没及格过的建议，以下内容有毒",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxholly32/Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxholly32/Blog/issues"
+  },
+  "homepage": "https://github.com/xxholly32/Blog#readme",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.47"
+  }
+}
