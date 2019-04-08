@@ -1,4 +1,6 @@
-# vscode的简介
+# vscode使用心得
+
+## vscode的简介
 
 用vscode也有个几个年头了，最早用文本编辑器editplus和后面的sublime，直到现在的vscode基本上每天工作已经离不开了；
 
@@ -6,11 +8,11 @@ vscode，免费，开源，使用简单，占资源少，丰富的插件功能�
 
 功能强大的而且简单到不能再简单，如果你不知道怎么用打开，然后运行ctrl+shift+p；随便输入什么都可以找到你要的答案，比如快捷键；
 
-# vscode的插件
+## vscode的插件
 
 vscode最强打的就是插件系统，我引入一些我平时用到的，如果还有一些好的可以留言给我。
 
-## [Emmet](https://docs.emmet.io/) 简易html输入
+### [Emmet](https://docs.emmet.io/) 简易html输入
 
 vscode内嵌的一款插件，简易编写html语言，采用tab切换使用
 
@@ -30,7 +32,7 @@ ul#nav>li.item$*4>a{Item $}
 </ul>
 ```
 
-## 用 [prettier](https://prettier.io/) ，Vetur，ESlint 编写Vue项目
+### 用 [prettier](https://prettier.io/) ，Vetur，ESlint 编写Vue项目
 
 ESlint 接管原生 js 提示，可以自定制提示规则。[Vetur](https://cn.vuejs.org/v2/guide/typescript.html#%E7%BC%96%E8%BE%91%E5%99%A8%E6%94%AF%E6%8C%81) 则是Vue官方推荐的编辑器支持插件；prettier可以加入eslint校验，formatOnSave可以自动在项目保存的时候进行代码的formatter操作；3件套让你的代码变的整洁、美观；以下是我个人的配置；
 
@@ -58,27 +60,27 @@ ESlint 接管原生 js 提示，可以自定制提示规则。[Vetur](https://cn
 }
 ```
 
-## Snippets 之 vue vscode snippets
+### Snippets 之 vue vscode snippets
 
 Snippets的功能和emmet差不多，还有html snippets，react snippets；知道一些快捷键可以很快速的写一些空的页面或者函数；还有一个vue 2 snippets具体我还没仔细看过，貌似下载次数比这个高。
 
 ![](https://cdn.nlark.com/yuque/0/2019/gif/127166/1552119580664-b7c49d38-53ec-4dcd-bf39-35eb8f891f50.gif#align=left&display=inline&height=420&originHeight=720&originWidth=1280&size=0&status=done&width=746)
 
 
-## [DocBlocker](https://github.com/FlyDreame/vscode-docBlocker) 方法注释
+### [DocBlocker](https://github.com/FlyDreame/vscode-docBlocker) 方法注释
 
 这个是我们组刘梦同学开发的vscode插件，如要是做方法注释用的；还有一个document this的插件，适用于全局的注释；他还有一款vue i18n helper的插件用于检验vue文件中是否包含多语言的，配合相关也有eslint的插件有兴趣的可以关注一下；
 
 ![](https://cdn.nlark.com/yuque/0/2019/gif/127166/1552117629502-f1e12b80-c8e3-45e8-8bd0-f385786f66b4.gif#align=left&display=inline&height=388&originHeight=475&originWidth=914&size=0&status=done&width=746)
 
-## Bracket Pair Colorizer 括号终结者
+### Bracket Pair Colorizer 括号终结者
 
 有时候我们写代码会不知道括号的结尾在哪里，没有对应的终线，这个是很好的利器，支持多括号的颜色区分；
 
 
 ![image.png](https://cdn.nlark.com/yuque/0/2019/png/127166/1552117888151-55cc8557-eede-49af-9431-8d3a1247487e.png#align=left&display=inline&height=118&name=image.png&originHeight=118&originWidth=579&size=23172&status=done&width=579)
 
-## TODO Highlight 编辑器中的checklist
+### TODO Highlight 编辑器中的checklist
 
 在代码中标注我们想做和需要做的事情，可以用不同的颜色分别标注在注释中；支持自定义颜色和关键字；
 
@@ -87,7 +89,7 @@ Snippets的功能和emmet差不多，还有html snippets，react snippets；知�
 ![image.png](https://cdn.nlark.com/yuque/0/2019/png/127166/1552118291798-9169f2a5-d736-4c4d-865a-b6fcb8182d9d.png#align=left&display=inline&height=290&name=image.png&originHeight=290&originWidth=584&size=42955&status=done&width=584)
 
 
-## 其他
+### 其他
 
 1. git history ：查看git历史记录
 1. git history diff : 对比git历史提交记录
@@ -97,9 +99,9 @@ Snippets的功能和emmet差不多，还有html snippets，react snippets；知�
 1. import css：能够算出你import或者require的文件的大小，非常实用
 1. material icon theme：文档图标库，类似的还有很多，只需要搜icons就好了，这个看个人喜欢
 
-# 主题与字体
+## 主题与字体
 
-## 主题 
+### 主题 
 
 在官网搜索排行我们就可以看到一些比较著名的主题了，[https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads)，有material，这个就中规中矩，on dark，这个色彩会更多一些，还有一款winter is coming，里面的值都是白色，有股淡淡的忧伤。
 
@@ -112,6 +114,6 @@ Snippets的功能和emmet差不多，还有html snippets，react snippets；知�
 
 什么你要背景是白色的？不好意思，没有共同语言
 
-## 字体
+### 字体
 
 字体普遍推荐的是Operator Mono Book 和 [Dank Mono](https://dank.sh/)，不过2个都收费；我比较喜欢dank mono的f和l的写法，不过s的写法就比较蛋疼了；所以还是用的是默认字体，如果有好的字体也可以推荐给我。
