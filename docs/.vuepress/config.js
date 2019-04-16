@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   title: 'xx 的 blog',
   description: 'Just playing around',
-  base: '/blog/',
+  base: '/Blog/',
   // TODO: 看下host的配置
   host: 'localhost',
   themeConfig: {
