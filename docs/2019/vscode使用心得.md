@@ -110,7 +110,9 @@ Snippets 的功能和 emmet 差不多，还有 html snippets，react snippets；
 
 什么你要背景是白色的？不好意思，没有共同语言
 
-![](https://github.com/robb0wen/synthwave-vscode/blob/master/theme.jpg)
+### synthwave-vscode
+
+![jpg](https://github.com/robb0wen/synthwave-vscode/raw/master/theme.jpg)
 
 [synthwave-vscode](https://github.com/robb0wen/synthwave-vscode)又一个碉堡的效果，做得有梦幻的感觉，颜色有点深，是基于 vscode 的新特性实现的，[Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)，原理应该是 vscode 支持加载 css 和 js 来做皮肤
 
