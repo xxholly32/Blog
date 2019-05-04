@@ -1,5 +1,5 @@
 {
-  "name": "Blog",
+  "name": "blog",
   "version": "1.0.0",
   "description": "> 来自一位高中语文没及格过的建议，以下内容有毒",
   "main": "index.js",
@@ -8,7 +8,8 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "publish": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
