@@ -11,6 +11,10 @@ module.exports = {
       {
         text: "Home",
         link: "/"
+      },
+      {
+        text: "Github",
+        link: "https://github.com/xxholly32/Blog"
       }
     ],
     sidebar: [
