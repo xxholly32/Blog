@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/xxholly32/Blog#readme",
   "dependencies": {
-    "vuepress": "^1.0.0-alpha.47"
+    "vuepress": "^1.0.0"
   }
 }
