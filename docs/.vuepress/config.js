@@ -7,9 +7,9 @@ module.exports = {
   dest: "dist/",
   theme: "ououe",
   themeConfig: {
-    defaultTheme: "light",
-    cover: "/cover.jpg",
-    logo: "/logo.png",
+    defaultTheme: "dark",
+    cover: "./cover.jpg",
+    logo: "./logo.png",
     search: true,
     pageGroup: 5,
     postTime: {
