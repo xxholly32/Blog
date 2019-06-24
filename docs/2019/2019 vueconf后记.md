@@ -1,3 +1,14 @@
+---
+title: 2019 vueconf 后记
+display: home
+image: /Blog/2019vueconf/soda2.jpg
+date: 2019-06-09
+tags:
+  - vue
+  - vueconf
+  - vuepress
+---
+
 # 2019 vueconf 后记
 
 ## 写在前面

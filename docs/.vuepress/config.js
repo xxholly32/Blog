@@ -2,16 +2,30 @@ const path = require("path");
 
 module.exports = {
   title: "xx 的 blog",
-  description: "Just playing around",
+  description: "Why so serious?",
   base: "/Blog/",
-  // TODO: 看下host的配置
-  host: "localhost",
+  dest: "dist/",
+  theme: "ououe",
   themeConfig: {
+    defaultTheme: "light",
+    cover: "/cover.jpg",
+    logo: "/logo.png",
+    search: true,
+    pageGroup: 5,
+    postTime: {
+      createTime: "Create Time",
+      lastUpdated: "Last Updated"
+    },
     nav: [
       {
         text: "Home",
         link: "/"
       },
+
+      { text: "2019", link: "/2019/" },
+      { text: "2018", link: "/2018/" },
+      { text: "2016", link: "/2016/" },
+      { text: "Tags", link: "/tag/" },
       {
         text: "Github",
         link: "https://github.com/xxholly32/Blog"
@@ -50,6 +64,12 @@ module.exports = {
         collapsable: false,
         children: ["/2016/[翻译]2016年JavaScript开发者需要了解的技能"]
       }
+    ]
+  },
+  postcss: {
+    plugins: [
+      require("css-prefers-color-scheme/postcss"),
+      require("autoprefixer")
     ]
   }
 };

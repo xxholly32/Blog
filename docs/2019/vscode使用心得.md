@@ -1,3 +1,13 @@
+---
+title: vscode 使用心得
+display: home
+image: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561377955239&di=65561727dfa6358e5844293b1df33f1b&imgtype=0&src=http%3A%2F%2Fcdn.sspai.com%2F2018%2F10%2F05%2F79383f01cd2fc42348bccaf11e5d5db8.jpg
+date: 2019-03-09
+tags:
+  - vscode
+  - skill
+---
+
 # vscode 使用心得
 
 ## vscode 的简介
