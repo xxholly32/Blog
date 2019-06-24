@@ -26,13 +26,14 @@ module.exports = {
       { text: "2018", link: "/2018/" },
       { text: "2016", link: "/2016/" },
       { text: "Tags", link: "/tag/" },
+      { text: "about", link: "/about" },
       {
         text: "Github",
         link: "https://github.com/xxholly32/Blog"
       }
     ],
     sidebar: [
-      ["/", "介绍"],
+      ["/about", "介绍"],
       {
         title: "2019",
         path: "/2019/",
