@@ -1,12 +1,15 @@
 ---
 title: 2019 seeconf 后记
 display: home
-image: https://cdn.nlark.com/yuque/0/2019/jpeg/127166/1547342101910-343594ab-ba5e-44f7-990f-2d58b3a268db.jpeg#align=left&display=inline&height=560&linkTarget=_blank&name=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190113091426.jpg&originHeight=1080&originWidth=1440&size=115316&width=746
+# image: https://user-images.githubusercontent.com/6063358/67394223-681c4380-f5d6-11e9-92b6-a9463b1ce81a.png
+image: /Blog/seeconf2.jpeg
 date: 2019-01-13
 tags:
   - seeconf
   - ui
 ---
+
+2019 年初蚂蚁 Z 空间
 
 # 2019 seeconf 后记
 

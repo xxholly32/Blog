@@ -1,12 +1,14 @@
 ---
 title: 第二届 vueconf 后记
 display: home
-image: https://cdn.nlark.com/yuque/0/2018/jpeg/127166/1544448529292-20aab5c4-c5ac-4522-9867-2ebbaf023b26.jpeg
+image: /Blog/vueconf2.jpeg
 date: 2018-01-01
 tags:
   - vue
   - vueconf
 ---
+
+杭州金逸影城卧趟式听课
 
 # 第二届 vueconf 后记
 

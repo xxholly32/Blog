@@ -2,12 +2,17 @@
 title: 2019 vueconf 后记
 display: home
 image: /Blog/2019vueconf/soda2.jpg
+description: Build your blog through multiple folders for vuepress
 date: 2019-06-09
 tags:
   - vue
   - vueconf
   - vuepress
 ---
+
+记录上海交大的 `vueconf 3` 之旅
+
+<!-- more -->
 
 # 2019 vueconf 后记
 

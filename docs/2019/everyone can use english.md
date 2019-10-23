@@ -9,6 +9,8 @@ tags:
 
 # everyone can use english 读后感
 
+读书文摘
+
 # 前言
 
 从如何学习英语中，摸索出了许多道理，而这些道理并不止步与英语范畴；作者是从文学，心理学，等多个学科理论中寻找论点论据，并证实观点。读起来颇有趣味，我这里主要摘录一下比较好的内容，部分会做一些点评。<br />原文地址：[https://github.com/xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
