@@ -29,8 +29,7 @@ vuepress 是 vue 全家桶之外的技术，就算是用 vue 全家桶的同学�
 
 ![](/Blog/2019binfen/ana2.jpg)
 
-首先是 vue 官方文档，[vue](https://cn.vuejs.org/)，[vue-cli](https://cli.vuejs.org/zh/)，[vue-router](https://router.vuejs.org/zh/)，[vuepress](https://v1.vuepress.vuejs.org/zh/) 等都是用了vuepress编写
-
+首先是 vue 官方文档，[vue](https://cn.vuejs.org/)，[vue-cli](https://cli.vuejs.org/zh/)，[vue-router](https://router.vuejs.org/zh/)，[vuepress](https://v1.vuepress.vuejs.org/zh/) 等都是用了 vuepress 编写
 
 ![](/Blog/2019binfen/ana3.jpg)
 
@@ -124,26 +123,25 @@ monorepo 最早是 babel 在使用，也沉淀了一些对它的理解，这个�
 
 这些也是体现在插件的默认配置和设计中，特别是文档目录结构的设计以及主题目录的设计。往往好的设计都是少配置甚至 0 配置的。
 
-我们从 vuepress1.x 的主题系统分析一下这个设计理念。说这个理念之前我先说一个个人非常喜欢玩的游戏炉石传说，炉石传说是30张卡2人对战的回合制游戏。在炉石区有个说法就是，一套卡组（30张）只要改一张就是我的卡组了。这个理念就刚好来说明vuepress的主题系统在默认的某个文件夹下面，默认的皮肤都在theme-default下，开发人员不需要修改所有的皮肤组件，只需要针对自己想要改的元素适当的修改某个指定的元素就可以了，比如我们公司内部的ui库只改一个首页`Home.vue`也可以是一个vuepress的自定义皮肤，而实现这个原理就是采用webpack的alias功能这么简单。
-
+我们从 vuepress1.x 的主题系统分析一下这个设计理念。说这个理念之前我先说一个个人非常喜欢玩的游戏炉石传说，炉石传说是 30 张卡 2 人对战的回合制游戏。在炉石区有个说法就是，一套卡组（30 张）只要改一张就是我的卡组了。这个理念就刚好来说明 vuepress 的主题系统在默认的某个文件夹下面，默认的皮肤都在 theme-default 下，开发人员不需要修改所有的皮肤组件，只需要针对自己想要改的元素适当的修改某个指定的元素就可以了，比如我们公司内部的 ui 库只改一个首页`Home.vue`也可以是一个 vuepress 的自定义皮肤，而实现这个原理就是采用 webpack 的 alias 功能这么简单。
 
 ## 社区优秀实践 🛰
 
 ### [vuepress-community](https://vuepress.github.io/zh/)
 
-社区维护的vuepress生态系统，由@Shigma和@meteorlxy维护，上面介绍的vuepress项目比较实用而且有很好的文档说明
+社区维护的 vuepress 生态系统，由@Shigma 和@meteorlxy 维护，上面介绍的 vuepress 项目比较实用而且有很好的文档说明
 
 ![](/Blog/2019binfen/ana10.jpg)
 
 ### [vuepress-plugin-cat](https://github.com/QiShaoXuan/vuepress-plugin-cat)
 
-vuepress在线撸猫插件，作者也是[css tricks](https://github.com/QiShaoXuan/css_tricks)的作者@QiShaoXuan，里面有非常多的优秀实践，撸猫只是其中的一个功能点；我们组有部分同事引入了，所以给大家推荐一下。
+vuepress 在线撸猫插件，作者也是[css tricks](https://github.com/QiShaoXuan/css_tricks)的作者@QiShaoXuan，里面有非常多的优秀实践，撸猫只是其中的一个功能点；我们组有部分同事引入了，所以给大家推荐一下。
 
 ![](/Blog/2019binfen/ana11.jpg)
 
 ### [vuepress-theme-default-prefers-color-scheme](https://tolking.github.io/vuepress-theme-default-prefers-color-scheme/)
 
-基于css语法 [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) 做的一个主题插件，可以配置时段让你的vuepress拥有半天和黑夜的功能。我个人是在做vuepress的主题切换的时候发现的，因为哦们内部ui库需要支持切换皮肤，现在还没有特别好的方案。其中一种是和elementui一样直接全局替换css的方式，但做法还是感觉比较low。如果有好的建议欢迎给我留言。
+基于 css 语法 [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) 做的一个主题插件，可以配置时段让你的 vuepress 拥有半天和黑夜的功能。我个人是在做 vuepress 的主题切换的时候发现的，因为哦们内部 ui 库需要支持切换皮肤，现在还没有特别好的方案。其中一种是和 elementui 一样直接全局替换 css 的方式，但做法还是感觉比较 low。如果有好的建议欢迎给我留言。
 
 ![](/Blog/2019binfen/ana12.jpg)
 
