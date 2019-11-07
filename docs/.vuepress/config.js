@@ -46,6 +46,7 @@ module.exports = {
           '/2019/2019 vueconf后记',
           '/2019/前方的路',
           '/2019/曾国藩家书',
+          '/2019/what-i-learn-from-analysis-vuepress',
         ],
       },
       {
