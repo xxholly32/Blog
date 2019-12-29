@@ -75,7 +75,7 @@ vuepress 的配置非常精简，几乎只需要配置一个 config.js 而以前
 
 当然除了技术文档上的贡献是巨大的，它能做的还有更多
 
-### 【vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque)
+### [vuepress-plugin-yuque](https://github.com/ulivz/vuepress-plugin-yuque)
 
 先说一下公司内部的痛苦，我们是无法用语雀写文档的，vuepress-plugin-yuque 可以实现将外部的文档数据转化为本地的文档；所以只要你愿意，未来你可以将任意数据源转化成 vuepress；那这有什么好处呢，我们在公司内部有很多 oa 的数据，它的展现方式并不是非常直观，或者我们有一些业务扩展类的需求没法直接在 oa 上呈现。但我们可以拿到它的数据，在 vuepress 做展现，我们有一些定制类的项目每周有很多个分配个不同的人；我们将数据拿到用日历的方式展现在 vuepress 中，就可以直观的看到每个人每天有什么任务了。
 

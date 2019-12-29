@@ -38,6 +38,7 @@ module.exports = {
         path: '/2019/',
         collapsable: false,
         children: [
+          '/2019/2019年度总结',
           '/2019/个人年度计划',
           '/2019/everyone can use english',
           '/2019/浏览器选项',
