@@ -83,7 +83,7 @@ preview:
 
 ## 引入 lerna
 
-借鉴一下社区 `awesome` 库的理念，其实在我厂内部也有非官方维护的组件库（我个人把他们放到一个仓库（awesomeui 库），采用 lerna 进行管理）。可以通过私有 npm 仓库去统计单个组件的 npm 下载次数。但我们库（类似 elementui ）如果统一下载，一是没有办法统计下载量，二是，awesomeui 库的下载量高的没办法解藕的合并到主库。
+借鉴一下社区 `awesome` 库的理念，其实在我厂内部也有非官方维护的组件库（我个人把他们放到一个仓库 awesomeui 库，`ant-design` 也有官方的 [ant-design/pro-components](https://github.com/ant-design/pro-components)，采用 lerna 进行管理）。可以通过私有 npm 仓库去统计单个组件的 npm 下载次数。但我们库（类似 elementui ）如果统一下载，一是没有办法统计下载量，二是，awesomeui 库的下载量高的没办法解藕的合并到主库。
 
 所以这次我打算用 lerna 进行管理（看了下 element-plus）也是用了 lerna。
 
