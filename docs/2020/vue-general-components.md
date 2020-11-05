@@ -1,4 +1,5 @@
 ---
+display: home
 title: 快速搭建 vue 组件方案 vue-general-components
 image: https://pic4.zhimg.com/v2-f83c5beb7e0109c8be8976619a7f5f5b_1200x500.jpg
 date: 2020-06-06
