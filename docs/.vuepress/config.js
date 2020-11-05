@@ -37,7 +37,11 @@ module.exports = {
         title: "2020",
         path: "/2020/",
         collapsable: false,
-        children: ["/2020/阿里巴巴人力资源管理分析", "/2020/impress 使用心得"],
+        children: [
+          "/2020/vue-general-components",
+          "/2020/阿里巴巴人力资源管理分析",
+          "/2020/impress 使用心得",
+        ],
       },
       {
         title: "2019",
