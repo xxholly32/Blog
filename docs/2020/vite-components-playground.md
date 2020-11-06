@@ -27,7 +27,7 @@ vue3 出来已经有一段时间了，刚好前端时间做了 [vue-general-comp
 
 前期有几个可以选型的点，[vue-cli](https://github.com/vuejs/vue-cli)，[vite](https://github.com/vitejs/vite)，[vitepress](https://github.com/vuejs/vitepress)；
 
-主框架的一些文档为什么不借鉴主流组件库的？其实之前用 `elementui` 包括 `ant-design-vue`，都是自己内部实现的文档系统，整个文档也是用 `webpack-dev-server` 构建一下，或者自己封装一些工具库，比如 `antd-tool`，`cooking` 等，但其实很难有可提取复用的点，部分已经没落了；还有一点就是设计，大厂的设计都有点产品特色，就有点大厂的格局在那。不像 `vuepress` 这种能够一通百通的产品出现，所以并没有可借鉴的地方，简单来说，太重。
+文档是一个组件库的灵魂，文档系统为什么不借鉴主流组件库的？其实之前用 `elementui` 包括 `ant-design-vue`，都是自己内部实现的文档系统，整个文档也是用 `webpack-dev-server` 构建一下，或者自己封装一些工具库，比如 `antd-tool`，`cooking` 等，但其实很难有可提取复用的点，部分已经没落了；还有一点就是设计，大厂的设计都有点产品特色，就有点大厂的格局在那。不像 `vuepress` 这种能够一通百通的产品出现，所以并没有可借鉴的地方；简单来说，太重。
 
 不过可惜我比较中意的 `vuepress` 只支持 `vue2`。
 
@@ -143,6 +143,8 @@ vue 3 社区现阶段还不算健壮，很多技术可能也会改，如果后�
 如果觉得本文好可以给我的项目[vite-components-playground](https://github.com/xxholly32/vite-components-playground)一个 star，后续我也会持续在这个项目做更新。
 
 ## 后话
+
+截至收稿前，我的项目 [vite-components-playground](https://xxholly32.github.io/vite-components-playground/) 已经和入到 [awesome-vite templates](https://github.com/vitejs/awesome-vite#templates) 中去了。
 
 vue3 发布也有一段时间了，各个大厂已经发布了自己的组件库，而其实 vue3 真正使用上的问题还是有很多，尤大也在说全面用起来也最好是年底。我也有担心，是否 vue3 投入到生产项目会不会过早。一个成熟的系统简答切换 vue2 到 vue3 代价可是不小的。
 
