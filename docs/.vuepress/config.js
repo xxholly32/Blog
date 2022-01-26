@@ -21,6 +21,7 @@ module.exports = {
         text: "Home",
         link: "/",
       },
+      { text: "2022", link: "/2022/" },
       { text: "2021", link: "/2021/" },
       { text: "2020", link: "/2020/" },
       { text: "2019", link: "/2019/" },
