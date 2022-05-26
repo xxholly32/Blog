@@ -5,6 +5,6 @@ backgroundUrl: https://lh4.googleusercontent.com/proxy/kFIJNnm2DMbS3B5LXaIdm2JKI
 
 # 个人博客 随便写写
 
-> 来自一位高中语文没及格过的建议，以下内容有毒
+> yesterday is a history, tomorrow is a mestrey, but today is a gift, so we call it present
 
 {{$page}}
