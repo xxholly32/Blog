@@ -16,10 +16,23 @@ export default {
 				],
 			},
 			{
+				text: "2024 年",
+				items: [
+					{
+						text: "2024 Flag 🏳‍🌈🏳‍🌈🏳‍🌈",
+						link: "/2024/flag",
+					},
+				]
+			},
+			{
 				text: "2023 年",
 				items: [
 					{
-						text: "chatGPT 使用指南（一） 🔥🔥",
+						text: "2023 Flag 🚩🚩🚩与总结",
+						link: "/2023/flag",
+					},
+					{
+						text: "chatGPT 使用指南（一）",
 						link: "/2023/how-to-use-chatGPT",
 					},
 					{
@@ -27,9 +40,9 @@ export default {
 						link: "/2023/best-practice-and-mental-burden",
 					},
 					{
-						text: "2023 Flag 🚩🚩🚩",
-						link: "/2023/flag",
-					},
+						text: "为什么说塞尔达是天",
+						link: "/2023/other/why-is-zelda-the-best"
+					}
 				],
 			},
 		],
