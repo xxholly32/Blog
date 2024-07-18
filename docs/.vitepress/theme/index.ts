@@ -2,7 +2,7 @@
 import DefaultTheme from 'vitepress/theme'
 import { onMounted } from 'vue';
 import mediumZoom from 'medium-zoom'
-import 'uno.css'
+import 'virtual:uno.css'
 import './index.css';
 
 export default {

@@ -18,11 +18,6 @@
     </div>
     <div class="flex flex-col">
       <p>
-        常说的话：
-      </p>
-      <b>空杯、专业、创新；</b>
-      <b>专业是，具有了不起的技艺或经验。并为其他人解决问题，无论问题有多麻烦</b>
-      <p>
         最喜欢的句子：
       </p>
       <b>Yesterday is history. Tomorrow is a mystery. But today is a gift. That is why it’s called the present!</b>
