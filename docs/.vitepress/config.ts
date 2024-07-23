@@ -22,6 +22,10 @@ export default {
 						text: "vueconf 2024 后记",
 						link: "/2024/vueconf-2024",
 					},
+					{
+						text: "绩效考核标准",
+						link: "/2024/team-performance",
+					},
 					// {
 					// 	text: "2024 Flag 🏳‍🌈🏳‍🌈🏳‍🌈",
 					// 	link: "/2024/flag",
