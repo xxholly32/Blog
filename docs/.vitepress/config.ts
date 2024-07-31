@@ -19,6 +19,10 @@ export default {
 				text: "2024 年",
 				items: [
 					{
+						text: "与囧克斯（jiongks）面谈",
+						link: "/2023/a-talk-with-jiongks",
+					},
+					{
 						text: "vueconf 2024 后记",
 						link: "/2024/vueconf-2024",
 					},
@@ -35,6 +39,10 @@ export default {
 					// 	text: "2023 Flag 🚩🚩🚩与总结",
 					// 	link: "/2023/flag",
 					// },
+					{
+						text: "与托尼（antfu）面谈",
+						link: "/2023/meeting-antfu",
+					},
 					{
 						text: "chatGPT 使用指南（一）",
 						link: "/2023/how-to-use-chatGPT",

@@ -12,7 +12,7 @@
       <p>
         大家可以通过
         <a href="https://github.com/xxholly32" target="_blank">GitHub</a>、
-        <a href="https://www.yuque.com/xiangxiao" target="_blank">语雀</a>、
+        邮箱：<a href="mailto:xxholly32@163.com">xxholly32@163.com</a>、
         等方式联系到我
       </p>
     </div>
