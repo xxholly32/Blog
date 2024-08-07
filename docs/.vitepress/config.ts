@@ -20,7 +20,7 @@ export default {
 				items: [
 					{
 						text: "与囧克斯（jiongks）面谈",
-						link: "/2023/a-talk-with-jiongks",
+						link: "/2024/a-talk-with-jiongks",
 					},
 					{
 						text: "vueconf 2024 后记",
