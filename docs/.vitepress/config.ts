@@ -19,6 +19,10 @@ export default {
 				text: "2024 年",
 				items: [
 					{
+						text: "谈谈黑神话悟空",
+						link: "/2024/talk-about-black-myth-wukong",
+					},
+					{
 						text: "与囧克斯（jiongks）面谈",
 						link: "/2024/a-talk-with-jiongks",
 					},
