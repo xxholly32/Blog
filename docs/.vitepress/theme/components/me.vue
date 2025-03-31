@@ -22,6 +22,7 @@
       </p>
       <b>Yesterday is history. Tomorrow is a mystery. But today is a gift. That is why it’s called the present!</b>
       <b>Great power comes great responsibility!</b>
+      <b>父辈的经验毕竟是过往，未必全对，你的路还需你去闯!</b>
     </div>
     <div class="flex flex-col">
       <p>

@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import { onMounted, toRefs } from 'vue';
+import Layout from './Layout.vue'
 import { useData, useRoute } from 'vitepress';
 import mediumZoom from 'medium-zoom'
 import 'virtual:uno.css'
@@ -37,4 +38,5 @@ export default {
       mediumZoom('[data-zoomable]', { background: 'var(--vp-c-bg)' });
     });
   },
+  Layout
 }

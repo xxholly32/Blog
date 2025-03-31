@@ -1,7 +1,11 @@
 export default {
 	title: "xx 的博客",
 	description: "前端",
+	appearance: false,
 	themeConfig: {
+		search: {
+			provider: 'local'
+		},
 		socialLinks: [
 			{
 				icon: "github",
@@ -29,6 +33,10 @@ export default {
 					{
 						text: "vueconf 2024 后记",
 						link: "/2024/vueconf-2024",
+					},
+					{
+						text: "我推荐的 up 主 📽️📽️📽️",
+						link: "/2024/my-favourite-up",
 					},
 					// {
 					// 	text: "2024 Flag 🏳‍🌈🏳‍🌈🏳‍🌈",
@@ -59,6 +67,19 @@ export default {
 						text: "为什么说塞尔达是天",
 						link: "/2023/other/why-is-zelda-the-best"
 					}
+				],
+			},
+			{
+				text: "翻译",
+				items: [
+					{
+						text: "【翻译】GTP 最佳实践",
+						link: "/2023/gpt-best-practices",
+					},
+					{
+						text: "【翻译】前端开发的终点",
+						link: "/2023/the-end-of-frontend-development",
+					},
 				],
 			},
 		],

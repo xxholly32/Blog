@@ -1,6 +1,9 @@
 // uno.config.ts
-import { defineConfig } from 'unocss'
+import { defineConfig } from 'vite'
+import Unocss from 'unocss/vite'
 
 export default defineConfig({
-  // ...UnoCSS options
+  plugins: [
+    Unocss()
+  ],
 })
