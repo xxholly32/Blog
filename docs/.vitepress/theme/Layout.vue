@@ -7,12 +7,14 @@ const { Layout } = DefaultTheme
 </script>
 
 <template>
-  <Layout>
-    <template #nav-bar-content-before>
-      <Analysis />
+  <only-client>
+    <Layout>
+      <template #nav-bar-content-before>
+        <Analysis />
     </template>
     <template #nav-bar-content-after>
-      <VPSwitchAppearance />
-    </template>
-  </Layout>
+        <VPSwitchAppearance />
+      </template>
+    </Layout>
+  </only-client>
 </template>
