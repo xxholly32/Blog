@@ -3,7 +3,7 @@
 
 <template>
   <img style="width: 300px;height:300px;" src="/imgs/xx.jpg" alt="">
-  
+
   <article flex flex-col gap-1 class="art-main flex flex-col gap-2">
     <div>
       <p>大家好，我是相霄，一名前端开发工程师，来自海康威视。</p>

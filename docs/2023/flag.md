@@ -27,4 +27,3 @@
 5. 参与外源 1-2 个项目：[vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools)，[vuejs/repl](https://github.com/vuejs/repl)；`感觉还是不太够`
 6. 尝试 1-2 个不同的爱好：`感觉无法有精力在其他方面~，羽毛球，工作，带娃，占据了大部分的时间了`
 <!-- 7. 通关一款单击游戏 -->
-

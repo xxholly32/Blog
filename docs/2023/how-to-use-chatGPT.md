@@ -42,7 +42,7 @@
 + Translate programming languages 转化语言
 + Explain code 解释代码
 + JavaScript helper chatbot （JavaScript 助手聊天机器人）
-+ JavaScript to Python 
++ JavaScript to Python
 + JavaScript one line function JavaScript 单行函数
 + Create study notes 提供学习计划
 

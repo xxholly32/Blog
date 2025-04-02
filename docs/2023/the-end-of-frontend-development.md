@@ -20,8 +20,6 @@ Homestead允许人们在不编写任何代码的情况下构建自定义网页:
 
 ![20多年前的网站建设软件截图](https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Fthe-end-of-frontend-development%2Fhomestead.jpg&w=640&q=75)
 
-
-
 从一开始就一直存在一种担忧，即新技术会使Web开发人员变得无用。在2000年代，是WordPress。在2010年代，是Webflow。在2020年代初期，是“无代码”工具。
 
 而且，在某种程度上，Web开发人员已经变得过时了!现在，如果一家当地的面包店、牙医或艺术家需要一个网站，他们可能不会雇用开发人员并支付他们成千上万美元来从头构建一个网站。他们会进入SquareSpace，找到他们喜欢的模板，并支付20美元/月。

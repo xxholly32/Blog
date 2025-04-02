@@ -2,7 +2,7 @@
 
 > 本文严禁转载
 
-## 背景 
+## 背景
 
 今年的 vueconf 中，囧克斯的演讲让我印象深刻，我单独写了一篇 [vueconf 2024后记](https://www.xxholly32.com/2024/vueconf-2024.html#%E6%88%91%E5%92%8C-vue-js-%E7%9A%84%E5%8D%81%E5%B9%B4-%E5%9B%A7%E5%85%8B%E6%96%AF) 中有提到，有兴趣的可以去看看
 
@@ -74,4 +74,3 @@ Not everything that can be counted counts, and not everything that counts can be
 非常开心能够和囧克斯有这样的一次对话，他的回答也让我有一些启发，也比较坚定我做一些事情的信心。
 
 如果大家对管理，开源有兴趣，可以去找他的[一对一私人咨询服务](https://jiongks.name/special/1-on-1)了解，我觉得是非常值得的。
-

@@ -1,7 +1,6 @@
-# GPT 最佳实践 
+# GPT 最佳实践
 
 原文章地址：<https://platform.openai.com/docs/guides/gpt-best-practices>
-
 
 这篇指南分享了从GPTs获得更好结果的策略和方法。这里描述的方法有时可以组合使用以获得更好的回复。我们鼓励用户对GPT进行问答实验，找出最适合您的提问方法。
 
