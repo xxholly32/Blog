@@ -72,6 +72,11 @@ export default {
 			{
 				text: "翻译",
 				items: [
+
+					{
+						text: "【翻译】版本控制规范",
+						link: "/2025/epoch-semver-zh",
+					},
 					{
 						text: "【翻译】GTP 最佳实践",
 						link: "/2023/gpt-best-practices",

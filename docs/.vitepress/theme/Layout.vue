@@ -9,14 +9,14 @@ const { Layout } = DefaultTheme
 
 <template>
   <Layout>
-    <template #nav-bar-content-before>
+    <!-- <template #nav-bar-content-before>
       <Analysis />
-    </template>
+    </template> -->
     <template #nav-bar-content-after>
       <VPSwitchAppearance />
     </template>
-    <template #layout-top>
+    <!-- <template #layout-top>
       <AiSummary />
-    </template>
+    </template> -->
   </Layout>
 </template>
