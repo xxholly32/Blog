@@ -23,6 +23,14 @@ export default {
 				text: "2024 年",
 				items: [
 					{
+						text: "【翻译】整理你的依赖",
+						link: "/2025/categorize-deps-zh",
+					},
+					{
+						text: "【翻译】版本控制规范",
+						link: "/2025/epoch-semver-zh",
+					},
+					{
 						text: "谈谈黑神话悟空",
 						link: "/2024/talk-about-black-myth-wukong",
 					},
@@ -73,6 +81,10 @@ export default {
 				text: "翻译",
 				items: [
 
+					{
+						text: "【翻译】分类你的依赖",
+						link: "/2025/categorize-deps-zh",
+					},
 					{
 						text: "【翻译】版本控制规范",
 						link: "/2025/epoch-semver-zh",
