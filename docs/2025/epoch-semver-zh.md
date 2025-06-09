@@ -48,14 +48,14 @@ description: 提出一个扩展的语义化版本控制规范 Epoch SemVer，为
 
 <figure text-center>
   <img src="https://antfu.me/images/epoch-semver-progressive-1.png" alt="渐进式如阶梯" border="~ base rounded-xl">
-  <figcaption>渐进式如阶梯 - 截取自我的演讲 <a italic font-serif href="/talks#the-progressive-path" target="_blank">渐进之路</a></figcaption>
+  <figcaption>渐进式如阶梯 - 截取自我的演讲 <a italic font-serif href="https://antfu.me/talks#the-progressive-path" target="_blank">渐进之路</a></figcaption>
 </figure>
 
 我认为我们应该将同样的原则应用于版本控制。与其将主版本视为一次大规模改造，不如将其分解成更小、更易管理的更新。例如，与其从 `v1.x` 发布包含 10 个破坏性变更的 `v2.0.0`，我们可以将这些变更分散到几个较小的主版本发布中。这样，我们可能会发布带有 2 个破坏性变更的 `v2.0`，然后是带有 1 个破坏性变更的 `v3.0`，依此类推。这种方法使用户更容易逐步采纳变更，并降低一次性引入过多变更而让用户不知所措的风险。
 
 <figure text-center>
   <img src="https://antfu.me/images/epoch-semver-progressive-2.png" alt="破坏性变更的渐进式" border="~ base rounded-xl">
-  <figcaption>破坏性变更的渐进式 - 截取自我的演讲 <a italic font-serif href="/talks#the-progressive-path" target="_blank">渐进之路</a></figcaption>
+  <figcaption>破坏性变更的渐进式 - 截取自我的演讲 <a italic font-serif href="https://antfu.me/talks#the-progressive-path" target="_blank">渐进之路</a></figcaption>
 </figure>
 
 ## 零主版本控制
