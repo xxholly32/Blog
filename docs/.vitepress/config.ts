@@ -23,6 +23,15 @@ export default {
 				text: "2025 年",
 				items: [
 					{
+						text: "【翻译】 Claude Code 31 天实战技巧",
+						link: "/2026/advent-of-claude-2025-zh.md",
+					}
+				]
+			},
+			{
+				text: "2025 年",
+				items: [
+					{
 						text: "【翻译】上下文工程最佳实践",
 						link: "/2025/effective-context-engineering-for-ai-agents",
 					},
