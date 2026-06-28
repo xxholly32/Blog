@@ -22,6 +22,12 @@
 
 有关 chatGPT 的安全性，其实不能叫安全性，这个已经上升到人类与计算机的伦理性问题了。由于 openAI 是人训练出来的，因此它可能会反映出一些人类偏见和刻板印象。如果这些偏见和刻板印象被不当利用，可能会对人类造成歧视和伤害。因此，在使用ChatGPT时，我们需要审慎考虑其潜在影响，并努力减少可能的负面影响。openAI 公司也在不断改进和优化ChatGPT，以减少其可能造成的伤害。其实没有绝对的安全，只有不断完善的防御系统。
 
+最后对于公司，还是要遵循公司的安全性政策，我们是一家做安全的公司，请不要把公司电脑中的内容传到AI产品（chatGPT或者文心一言）上，这是不合法的。所以
+
+::: danger
+请在个人电脑，以及个人网域中使用AI产品。
+:::
+
 ## 初步了解 chatGPT
 
 当然是从官网去了解了，[openAI](https://openai.com/)，这个网站是英文的，但是我觉得不用翻译，因为英文的网站更加专业，更加有权威感。这个网站上有很多关于 chatGPT 的介绍，我就不一一介绍了，你可以自己去看。我只从它的 example 着手，带你们去了解 chatGPT。
@@ -42,7 +48,7 @@
 + Translate programming languages 转化语言
 + Explain code 解释代码
 + JavaScript helper chatbot （JavaScript 助手聊天机器人）
-+ JavaScript to Python
++ JavaScript to Python 
 + JavaScript one line function JavaScript 单行函数
 + Create study notes 提供学习计划
 
