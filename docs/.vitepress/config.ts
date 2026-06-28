@@ -1,4 +1,4 @@
-export default {
+﻿export default {
 	title: "xx 的博客",
 	description: "前端",
 	appearance: false,
@@ -42,7 +42,6 @@ export default {
 					{ text: "如何写好代码：从团队协作到个人习惯", link: "/2025/code-optimization" },
 					{ text: "Claude Code 初步上手体验 ⭐⭐", link: "/2025/claude-code" },
 					{ text: "【转载】阿里元安离职感言", link: "/2025/yuanan-article" },
-					{ text: "使用 Cursor 做多语言", link: "/2025/translation-with-cursor" },
 					{ text: "【翻译】Cursor 的 12 个技巧", link: "/2025/cursor-12-tips" },
 					{ text: "【翻译】整理你的依赖", link: "/2025/categorize-deps-zh" },
 					{ text: "2025 个人学习资源 ⭐⭐⭐", link: "/2025/learning-resource" },
@@ -57,16 +56,12 @@ export default {
 				items: [
 					{ text: "技术分享探讨 ⭐⭐⭐", link: "/2024/tech-sharing" },
 					{ text: "SVG 最佳实践", link: "/2024/svg-best-practices" },
-					{ text: "hido 前后端构建任务分离方 ⭐⭐⭐", link: "/2024/talk-about-cursor" },
 					{ text: "vueconf 2024 后记", link: "/2024/vueconf-2024" },
 					{ text: "谈谈上热搜这事", link: "/2024/talk-about-trending" },
 					{ text: "谈谈黑神话悟空", link: "/2024/talk-about-black-myth-wukong" },
 					{ text: "与囧克斯（jiongks）面谈 ⭐⭐⭐", link: "/2024/a-talk-with-jiongks" },
-					{ text: "快速远程部署", link: "/2024/deploy-remote" },
-					{ text: "重新思考我们的设计", link: "/2024/rethink-design" },
 					{ text: "减少内耗 ⭐⭐⭐", link: "/2024/no-more-rules" },
 					{ text: "如何快速的结缺陷单", link: "/2024/how-to-fast-close-issues" },
-					{ text: "hido 前端构建失败问题的思考", link: "/2024/about-publish" },
 					{ text: "我推荐的 up 主 📽️📽️📽️", link: "/2024/my-favourite-up" },
 					{ text: "2024 Flag 🏳‍🌈🏳‍🌈🏳‍🌈", link: "/2024/flag" },
 					{ text: "docker 实践与评论系统", link: "/2024/docker-and-comment-system" },
