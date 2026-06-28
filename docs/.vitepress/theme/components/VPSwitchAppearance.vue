@@ -13,7 +13,7 @@ onMounted(() => {
 })
 
 // @ts-expect-error: Transition API
-const isAppearanceTransition = document.startViewTransition &&
+const isAppearanceTransition = typeof document !== 'undefined' && document.startViewTransition &&
   !window.matchMedia(`(prefers-reduced-motion: reduce)`).matches
 
 function useAppearance() {

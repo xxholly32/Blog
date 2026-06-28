@@ -113,7 +113,7 @@ Q:
 
 以上的功能我都是使用 claude code 实现的。
 
-如果不会装，可以参考 [Claude Code 使用指南与实践](/blog/2025/claude-code.html)，claude code 只是一个命令行终端工具，这个谁都可以用
+如果不会装，可以参考 [Claude Code 使用指南与实践](/2025/claude-code)，claude code 只是一个命令行终端工具，这个谁都可以用
 
 它的优势 ：
 

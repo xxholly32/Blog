@@ -139,7 +139,7 @@ export default defineConfig({
 
 ### 环境变量 - hido 构建
 
-这个我也没写到脚手架里面，因为我感觉很多项目不一定使用 hido 构建，这块可以参考文献 [hido 前后端构建任务分离方案 - 前端构建相关指令](/blog/2024/hido-cicd-frontend.html#_3-前端构建相关指令)，需要新增 .env.hido 文件，然后配置 hido 构建的命令。
+这个我也没写到脚手架里面，因为我感觉很多项目不一定使用 hido 构建，这块可以参考文献 [hido 前后端构建任务分离方案 - 前端构建相关指令](/2024/hido-cicd-frontend#_3-前端构建相关指令)，需要新增 .env.hido 文件，然后配置 hido 构建的命令。
 
 ## hui-vue 3 的引入
 
@@ -204,7 +204,7 @@ TODO:
   + 比如 localstorage：https://vueuse.org/core/useLocalStorage/
 + 其实我们的业务，如果都使用 unocss 的话，那其实样式不太多的，所以我个人建议是能用 unocss 就用 unocss，如果不能用的话，那尽量使用原生的 css，而不是 less 和 sass。具体可以参考 [vite 的 css 预处理器章节](https://cn.vite.dev/guide/features.html#css-pre-processors)
 + 图标的话，我建议统一使用svg，并放在 components/icon 下面，并可以直接使用 vue 文件；注意一下命名，建议是 Hi 开头，例：`HiAbc`，避免 [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) 导致的文件冲突问题
-  + 图标还需关注，[SVG 最佳实践](/blog/2024/svg-best-practices.html)
+  + 图标还需关注，[SVG 最佳实践](/2024/svg-best-practices)
 + 项目中多语言多皮肤，根据业务需要按需选择，不要无脑迁移
 + moment 库，换成 dayjs，因为 moment 库已经停止维护了
 + 尽可能都用 ts

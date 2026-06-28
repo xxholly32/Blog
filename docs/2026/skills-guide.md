@@ -4,7 +4,7 @@ outline: deep
 
 # Skills 实战指南：让 AI 拥有专属技能
 
-> 前置阅读：[Claude Code 初步上手体验](/blog/2025/claude-code)
+> 前置阅读：[Claude Code 初步上手体验](/2025/claude-code)
 
 Skills 是 Anthropic 公司在 2024 年 8 月推出的一个特性。如今，Anthropic 已将其完善并开源，更名为 [Agent Skills](https://agentskills.io/)。类似的技术方案还有 Codex、最近备受关注的 OpenCode，以及 GitHub Copilot 等，都在采用这一特性。
 
@@ -54,7 +54,7 @@ Skills 的核心优势在于：**可复制、可分享、可复用**。正如管
 - **docx**：处理 Word 文档
 - **xlsx**：处理 Excel 表格
 
-> 💡 建议配合 [Excel 智能分析](/blog/2025/ai-coding-practices-2025.html#📊-案例实战-1-excel-智能分析) 一起阅读，效果更佳。
+> 💡 建议配合 [Excel 智能分析](/2025/ai-coding-practices-2025#📊-案例实战-1-excel-智能分析) 一起阅读，效果更佳。
 
 此外，还有一些我和团队创建的 Skills，可以参考这个仓库：team-prompts，其中包含：
 
